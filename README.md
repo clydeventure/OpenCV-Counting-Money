@@ -5,7 +5,7 @@
     <img src="https://github.com/clydeventure/OpenCV-Counting-Money/blob/master/img/computervision.jpg?raw=true" width="100%" >
   </a>
 
-  <h3 align="center">Couutning Coins</h3>
+  <h3 align="center">Coutning Coins</h3>
 
 
 
@@ -29,7 +29,7 @@ As the capstone project for my Python Bootcamp Udemy course, we were required to
 
 This program uses OpenCV to process the image.
 
-1. The image is converted to greyscale and a Gaussian blur is added for easier processing.
+1. The image is converted to grayscale and a Gaussian blur is added for easier processing.
 
 2. The circles in the image were identified using the Hough circles method (specification was pulled from the OpenCV documentation).
    
@@ -49,6 +49,6 @@ This program uses OpenCV to process the image.
 
 This project really pushed me to work outside of my comfort zone. My bootcamp course did not teach NumPy or OpenCV intentionally so that we, the students, would have to find solutions through reading the documentation. We were provided hints as to what we should be doing, but the rest was up to us.
 
-At the moment, I am trying to make myself hirable as sson as possible. Therfore, I am focusing more on Django and app development with Python. Due to time constrants, I made this program per instruction. When time is adbunadant, I would love to come back and rewrite the program to identify coins based off of ratio, and to count paper money as well.
+At the moment, I am trying to make myself hirable as soon as possible. Therefore, I am focusing more on Django and app development with Python. Due to time constraints, I made this program per instruction. When time is abundant, I would love to come back and rewrite the program to identify coins based off of ratio, and to count paper money as well.
 
 [Back To The Top](#table-of-contents)
