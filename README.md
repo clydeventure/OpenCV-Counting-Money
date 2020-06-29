@@ -5,7 +5,7 @@
     <img src="https://github.com/clydeventure/OpenCV-Counting-Money/blob/master/img/computervision.jpg?raw=true" width="100%" >
   </a>
 
-  <h3 align="center">Coutning Coins</h3>
+  <h3 align="center">Counting Coins</h3>
 
 
 
